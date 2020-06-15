@@ -12,6 +12,7 @@
 - Get it run under the dosbox, and try to debug it, trace the flow and found it repeating xor, seems to overwriting something.
 
 - Check the memeory and sees the result that:
+![dumper.png dumper.png](https://github.com/Karl233/Google-CTF-Learning/blob/master/2018/beginners/misc-floppy2/dumper.png)
 
 # Flag:
 CTF{g00do1dDOS-FTW}
